@@ -1,1 +1,1 @@
-# Nodejs - GraphQL - Apollo Server
+# Nodejs - GraphQL - Apollo
